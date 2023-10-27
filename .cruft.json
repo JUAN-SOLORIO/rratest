@@ -1,0 +1,18 @@
+{
+  "template": "https://github.com/collijk/python-package-cookiecutter",
+  "commit": "76ca4f5181f9619b2124d95ae31cf15d7d0fedf9",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "author_name": "Juan Solorio",
+      "author_email": "juansolo@uw.edu.com",
+      "github_username": "juan-solorio",
+      "project_name": "rratest",
+      "project_slug": "rratest",
+      "package_name": "rratest",
+      "project_short_description": "Just a testing project",
+      "_template": "https://github.com/collijk/python-package-cookiecutter"
+    }
+  },
+  "directory": null
+}
